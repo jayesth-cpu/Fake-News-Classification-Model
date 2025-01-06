@@ -168,7 +168,7 @@ See `requirements.txt` for all dependencies. Major libraries include:
 ---
 
 ## Contact
-For questions or suggestions, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For questions or suggestions, please reach out to jayesthofficial@gmail.com (mailto:your-email@example.com).
 
 ---
 
